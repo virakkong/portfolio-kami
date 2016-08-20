@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "img/color.png"
 ---
@@ -35,7 +35,7 @@ Interned in developing a Database Management System (Stock Management System) fo
 
 ## PROJECTS
 
-#### [Project 1: Cellular Network Camera on Quadcopter for Biology Research ](https://docs.google.com/presentation/d/1iartC-oyx5ahPNwFAe69rH_CUxEy6pl5FLfyS1xotWs/edit?usp=sharing"):
+#### [Project 1: Cellular Network Camera on Quadcopter](https://docs.google.com/presentation/d/1iartC-oyx5ahPNwFAe69rH_CUxEy6pl5FLfyS1xotWs/edit?usp=sharing"):
 
 Facilitate biologists in collecting data by using cellular network camera system mounted on a quadcopter. 
 
