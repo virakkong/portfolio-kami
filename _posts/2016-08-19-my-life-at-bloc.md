@@ -13,7 +13,7 @@ I choose bloc for three reasons:
 ## Detail
 
 
-Going to Coding Dojo was  another step for me to be a professional software engineer. I was fresh out of undergraduate school in an Electrical Engineering. I learned Java Programming I & II. However, I found that experiences in university’s programming theories in school does not equip me enough to become a professional programmer. That’s why I looked for professional school with high rates and cost-effective.
+Going to Bloc was  another step for me to be a professional software engineer. I was fresh out of undergraduate school in an Electrical Engineering. I learned Java Programming I & II. However, I found that experiences in university’s programming theories in school does not equip me enough to become a professional programmer. That’s why I looked for professional school with high rates and cost-effective.
 
 
  
