@@ -1,24 +1,24 @@
 # SITE CONFIGURATION
- baseurl: "" # the subpath of your site, e.g. /blog/
- url: "http://virakkong.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://virakkong.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: "Virak Kong" # Your name will go here
+  description: "My personal portfolio and blog websites" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Software and Web Development Engineer</h1>
+     <p>I'm  specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: "vireakyutkong@gmail.com"
+  email_address: "vireakyutkong@gmail.com" 
   behance:
   bitbucket:
   dribbble:
@@ -27,7 +27,7 @@ theme_settings:
   github: "virakkong"
   google_plus:
   instagram:
-  linkedin:  "https://www.linkedin.com/in/kong-virak-bb76301a?trk=hp-identity-photo"
+  linkedin: https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button  
   pinterest:
   reddit:
   soundcloud:
