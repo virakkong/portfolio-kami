@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
+title: Chat Room
 thumbnail-path: "img/Snip20161013_25.png"
-short-description: Build a self-destructing to-do list application.
+short-description: Build a real time chat application.
 
 ---
 
