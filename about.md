@@ -50,7 +50,9 @@ Built a real-time chat room. This Single Page Application (SPA) was built using 
 
 
 ## EXPERIENCE
-#### Electrical and Computer Engineer, S5 Solutions, Everett WA
+
+#### Electrical and Computer Engineer, S5 Solutions, Everett WA.
+
 #### S5Solution is a product development and solution company, which builds solutions for various customers.	
 
 Ensured the security of web application for a client project through security testing techniques. Found significant bugs during testing.
@@ -61,7 +63,8 @@ Created test cases and performed testing through various cloud applications vali
 #### Information Technology Officer, Everett Community College 
 Resolve technology issues with student computers related to software and hardware. Creatively solved complex issues with highly satisfied student base.
 
-#### IT Officer at Ministry of Agriculture's, Forest and Fisheries (MAFF) 
+#### IT Officer at Ministry of Agriculture's, Forest and Fisheries (MAFF)
+
 #### Administration, technical support, software tester, and problem solver for the ministry’s server and mail systems
 
 Provided technical excellence in maintaining the servers up and running all the time.
@@ -77,11 +80,13 @@ Performed software testing on routers, active directory, and group policy. Creat
 Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaScript, Database Management, Microsoft Azure, Quality Assurance, Software Testing, Csharp(C#), Scrum (Agile), Basic Single Page Application (AngularJS), Taking Initiative, Problem Solving, Analytical Skills, Git (Source Control), Wireframes.
 
 ## HONORS/AWARDS & SCHOLARSHIP
+
 Endowment Scholarship (University of Washington) Dean's list 	  	  	  	  	  	   
 Boeing Scholarship	  	                 	       
 NXT Programing Design award 
 
 ## CERTIFICATES OF COMPLETIONS
+
  Cloud Computing with Microsoft Azure 	  	  	      	    	  
  Developing Microsoft Azure Solutions–70-532 Certification Exam
  
