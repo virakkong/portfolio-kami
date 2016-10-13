@@ -7,19 +7,12 @@ feature-img: "img/color.png"
 
 ## PROFILE
 
-
 I am a Computer and Electrical Engineer who loves designs software applications and learn new materials related to programming langauges and information technologies. My main purpose is to be a system software engineer as I can use both programming skills and computer networking skills to design a system for high standard industry.
 
 
-## EDUCATIONAL BACKGROUND
+## SKILLS
 
-#### University of Washington (UW)’s Courses:
-Digital Circuits and Systems, Devices and Circuits (I &II), Circuit Theory, Fundamental of Electrical Circuit, Applied electrodynamics, Technical Writing and Report, and Intro to Engineering (NXT Robotic project), Power System Fundamental, Discrete Time Linear System, and Microprocessor Systems Design, Discrete Time Linear System, Electronic Test and Measurement, Control System, statistics, Java Programming, C#. Statistics, and Azure Data Storage.
-
-
-#### PROGRAMMING COURSES:
-HTML, CSS, JavaScript, Responsive Web Design (RWD), Angular Js, Ruby on Rail, MongoDB, Express, SQL.
-
+Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaScript, Database Management, Microsoft Azure, Quality Assurance, Software Testing, Csharp(C#), Scrum (Agile), Basic Single Page Application (AngularJS), Taking Initiative, Problem Solving, Analytical Skills, Git (Source Control), Wireframes.
 
 ## KEY ARCHIEVEMENTS
 
@@ -54,51 +47,41 @@ Built a real-time chat room. This Single Page Application (SPA) was built using 
 #### Electrical and Computer Engineer, S5 Solutions, Everett WA.
 S5Solution is a product development and solution company, which builds solutions for various customers.	
 
-Ensured the security of web application for a client project through security testing techniques. Found significant bugs during testing.
+- Ensured the security of web application for a client project through security testing techniques. Found significant bugs during testing.
 
-Created test cases and performed testing through various cloud applications validating requirement and performance. Found high impact bugs in the product and got them fixed. 
+- Created test cases and performed testing through various cloud applications validating requirement and performance. Found high impact bugs in the product and got them fixed. 
 
 
 #### Information Technology Officer, Everett Community College 
-Resolve technology issues with student computers related to software and hardware. Creatively solved complex issues with highly satisfied student base.
+- Resolve technology issues with student computers related to software and hardware. Creatively solved complex issues with highly satisfied student base.
 
 #### IT Officer at Ministry of Agriculture's, Forest and Fisheries (MAFF)
 Administration, technical support, software tester, and problem solver for the ministry’s server and mail systems
 
-Provided technical excellence in maintaining the servers up and running all the time.
+- Provided technical excellence in maintaining the servers up and running all the time.
 
-Administered the servers’ group policy and active directory. Maintained proper routing connection with DHCP for hundreds of users. 
+- Administered the servers’ group policy and active directory. Maintained proper routing connection with DHCP for hundreds of users. 
 
-Created technical documentation for windows server implementation in native language. Delivered 2000 pages of documentation.
+- Created technical documentation for windows server implementation in native language. Delivered 2000 pages of documentation.
 
-Performed software testing on routers, active directory, and group policy. Created user’s quota. 
+- Performed software testing on routers, active directory, and group policy. Created user’s quota. 
 
-## SKILLS
 
-Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaScript, Database Management, Microsoft Azure, Quality Assurance, Software Testing, Csharp(C#), Scrum (Agile), Basic Single Page Application (AngularJS), Taking Initiative, Problem Solving, Analytical Skills, Git (Source Control), Wireframes.
+## RELEVANT COURSES  
+
+Java Programming I, Computer Infrastructure and Concept Installation, Intro to Engineering (NXT Robotic Project), Microprocessor Systems Design, Electronic Test and Measurement, Control System, Engineering Statistics (Using R), Introduction to Business, Mathematics for Application, Data Structure and Algorithm II, Principle of Accounting (I), Computer Network (I), Computer Network (II) MS NOS Administration, Technical Writing and Report, Linux Operation System, Discrete Mathematics, Software Application (MS Office & Database),Visual Basic, .NET Programming, Web Development and Programming. 
+
+#### PROGRAMMING COURSES:
+
+HTML, CSS, JavaScript, Responsive Web Design (RWD), Angular Js, and NoSQL DB.
 
 ## HONORS/AWARDS & SCHOLARSHIP
 
-Endowment Scholarship (University of Washington) Dean's list 	  	  	  	  	  	   
-Boeing Scholarship	  	                 	       
-NXT Programing Design award 
+- Endowment Scholarship (University of Washington) Dean's list 	  	  	  	  	  	   
+- Boeing Scholarship	  	                 	       
+- NXT Programing Design award 
 
 ## CERTIFICATES OF COMPLETIONS
 
- Cloud Computing with Microsoft Azure 	  	  	      	    	  
- Developing Microsoft Azure Solutions–70-532 Certification Exam
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Cloud Computing with Microsoft Azure 	  	  	      	    	  
+- Developing Microsoft Azure Solutions–70-532 Certification Exam
