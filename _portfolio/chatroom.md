@@ -11,7 +11,7 @@ short-description: Build a self-destructing to-do list application.
 
 ## Explanation
 
-A real time chat application where you can join a room or create your own chat room.  T
+A real time chat application where you can join a room or create your own chat room. 
 
 ## Solution
 
@@ -20,7 +20,9 @@ This program is written with angular js as a structural framework and FireBase N
 
 
 ## Results
-User can create chatroom on their own. All messages are displayed in real time. Those data includes user's names, time of sent message, and messages. The messages data is sent to NoSQL DB of Firebase. We use AngularFire to bind data sent and recieved from NoSQl DB. 
-## Conclusion
 
+User can create chatroom on their own. All messages are displayed in real time. Those data includes user's names, time of sent message, and messages. The messages data is sent to NoSQL DB of Firebase. We use AngularFire to bind data sent and recieved from NoSQl DB. 
+
+
+## Conclusion
 This simple, yet elegant application could be a standalone tool or integrated into a larger project for communication purposes. 
