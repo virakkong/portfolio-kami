@@ -10,9 +10,6 @@ feature-img: "img/color.png"
 I am a Computer and Electrical Engineer who loves designs software applications and learn new materials related to programming langauges and information technologies. My main purpose is to be a system software engineer as I can use both programming skills and computer networking skills to design a system for high standard industry.
 
 
-## SKILLS
-
-Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaScript, Database Management, Microsoft Azure, Quality Assurance, Software Testing, Csharp(C#), Scrum (Agile), Basic Single Page Application (AngularJS), Taking Initiative, Problem Solving, Analytical Skills, Git (Source Control), Wireframes.
 
 ## KEY ARCHIEVEMENTS
 
@@ -21,6 +18,11 @@ Developed and created image analysis application on Azure cloud using Convex Hul
 Successfully designed a windows server and backup server with more than 500 hundred users for an organization. 
 
 Successfully developed a web-based inventory system for Reproductive and Child Health Alliance Organization (RACHA) to control its inventory in and out record with high satisfaction from the users.
+
+
+## SKILLS
+
+Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaScript, Database Management, Microsoft Azure, Quality Assurance, Software Testing, Csharp(C#), Scrum (Agile), Basic Single Page Application (AngularJS), Taking Initiative, Problem Solving, Analytical Skills, Git (Source Control), Wireframes.
 
 
 ## ENGINEERING PROJECTS
