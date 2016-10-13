@@ -10,8 +10,14 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Software and Web Development Engineer</h1>
-     <p>I'm  specializing in JavaScript, AngularJS, and MongoDB.</p>
+     <h1>Computer and Electrical Engineer</h1>
+     <p> Highly motivated system engineer with strong analytical and problem solving skills. 
+     Proficient in computer networking and web-based programming. 
+     Passionate about quality and customer experience. Deep expertise in software and hardware integration. 
+     Strong interest and passion for web development and cloud-based technology including Microsoft Azure (MA) and Amazon Web Service (AWS). 
+
+     <p> I am specialized in Computer Networking and Software Programming </p>
+     <p>I am also  specializing in JavaScript, AngularJS, and Java Programming </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
