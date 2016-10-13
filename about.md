@@ -13,11 +13,11 @@ I am a Computer and Electrical Engineer who loves designs software applications 
 
 ## KEY ARCHIEVEMENTS
 
-Developed and created image analysis application on Azure cloud using Convex Hull (CH) and Histogram Oriented Gradients (HOC) algorithms to detect object against various backgrounds to deliver number of objects with 75% accuracy and the speed of 5-7 seconds per picture frame. This project was sponsored by Microsoft to demonstrate a real-time cloud-computing capabilities.
+- Developed and created image analysis application on Azure cloud using Convex Hull (CH) and Histogram Oriented Gradients (HOC) algorithms to detect object against various backgrounds to deliver number of objects with 75% accuracy and the speed of 5-7 seconds per picture frame. This project was sponsored by Microsoft to demonstrate a real-time cloud-computing capabilities.
 
-Successfully designed a windows server and backup server with more than 500 hundred users for an organization. 
+- Successfully designed a windows server and backup server with more than 500 hundred users for an organization. 
 
-Successfully developed a web-based inventory system for Reproductive and Child Health Alliance Organization (RACHA) to control its inventory in and out record with high satisfaction from the users.
+- Successfully developed a web-based inventory system for Reproductive and Child Health Alliance Organization (RACHA) to control its inventory in and out record with high satisfaction from the users.
 
 
 ## SKILLS
