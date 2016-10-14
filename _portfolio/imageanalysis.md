@@ -2,7 +2,6 @@
 layout: post
 title: Cellular Network Camera For Biology Research (Image Analysis)
 thumbnail-path: "img/image_analysis.png"
-thumbnail-path: "img/image_analysis_2.png"
 short-description: Build a real time image analysis application on the cloud.
 
 ---
