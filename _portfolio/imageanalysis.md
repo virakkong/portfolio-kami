@@ -19,20 +19,6 @@ A real time image analysis application.
 
 ## Solution
 
-#### Strategy for Selection Components
-- Use commercially available components to save on costs
-- Build system around GoPro camera, commercial transmitter, and reciever
-- Required to use software such as Microsoft Azure, and Internet of Things
-
-#### Hardware Development
-- Gopro Hero 4
-- Transmitter
-- Reciever
-- Video Interception Device
-- High Powered USB Hub
-- Rasberry PI Model 2B
-- Voltage Regulator
-
 #### Software Development
 - Scrum: an agile wat to manage a project
 - Sprint: a set of period of completing work
