@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chat Room
+title: Cellular Network Camera For Biology Research (Image Analysis)
 thumbnail-path: "img/image_analysis.png"
 short-description: Build a real time image analysis application on the cloud.
 
