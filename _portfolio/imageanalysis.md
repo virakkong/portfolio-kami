@@ -7,7 +7,7 @@ short-description: Build a real time image analysis application on the cloud.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/image_analysis_2.png")
 
 ## Objective
 This project is created by team of  four students. I am playing a role as a software manager.
