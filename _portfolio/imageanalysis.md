@@ -2,7 +2,7 @@
 layout: post
 title: Chat Room
 thumbnail-path: "img/image_analysis.png"
-short-description: Build a real time chat application.
+short-description: Build a real time image analysis application on the cloud.
 
 ---
 
@@ -52,9 +52,11 @@ Sprint (2 weeks period to develop the software)
 - Slowest Algorithm: Speed Up Robust Feature (SURF) Algorithm (Test Purposes)
 
 ## Results (Image Analysis)
+
 #### HOG (Histogram Oriented Gradient)
 - Overal Accuracy: 70%
 - Processing Speed (Average): 5-10 seconds per per 64KB picture
+
 #### CH (Convex Hull)
 - Overall Accuracy: 75%
 - Processing Speed (Average): 2 seconds per 64 KB picture
@@ -65,7 +67,7 @@ Sprint (2 weeks period to develop the software)
 - Rudimentary Image Analysis
 - Additional Accomplishment: Create a UI (User Interface), Full-automated the whole process, and created a image training technques.
 
-References
+## References
 - Dr. Arnold S. Berger- Engineering Chair
 - Dr. Pierre D. Mourad- Industrial Sponsor
 - Dr. Wayne D. Kimura- Faculty Advisor
