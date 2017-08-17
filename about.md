@@ -7,11 +7,12 @@ feature-img: "img/color.png"
 
 ## PROFILE
 
-I am a Computer and Electrical Engineer who loves designs software applications and learn new materials related to programming langauges and information technologies. My main purpose is to be a system software engineer as I can use both programming skills and computer networking skills to design a system for high standard industry.
-
+Highly motivated computer and electrical engineer (dual majors) with strong analytical and problem solving skills. Proficient in computer system diagnostics and web-based programming for 3+ years working on various projects. Experience in providing technical support to users for application and integrity and maintenance. Possess ambition and drive to overcome challenging obstacles.
 
 
 ## KEY ARCHIEVEMENTS
+
+- Designed and developed web Applications and data visualization for various industries such as database security for Process Solutions, live streaming data from five motors for Achilles USA, live data streaming of food processing system for Shearer’s Foods, and system’s and service’s errors detection (System Diagnostics) for New Horizon product for Process Solution Inc.
 
 - Developed and created image analysis application on Azure cloud using Convex Hull (CH) and Histogram Oriented Gradients (HOC) algorithms to detect object against various backgrounds to deliver number of objects with 75% accuracy and the speed of 5-7 seconds per picture frame. This project was sponsored by Microsoft to demonstrate a real-time cloud-computing capabilities.
 
@@ -27,11 +28,33 @@ Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaSc
 
 ## ENGINEERING PROJECTS
 
-#### [Project 1: Cellular Network Camera on Quadcopter for Biology Research, 2016](https://docs.google.com/presentation/d/1iartC-oyx5ahPNwFAe69rH_CUxEy6pl5FLfyS1xotWs/edit?usp=sharing"):
+#### [Project 1: Advisory and Alerting System Project (New Horizon Product), March 2017]
+(https://drive.google.com/open?id=14MW_kd2rBXawraUCSiogGSQ_7i935pSAbewQFi8x4mE)
+Develop batch and power shells scripts to detect operation system’s and motor’s down time, backup failures, communication loss between Programming Logical Controller (PLC), SQL Server, and KEPServerEX.
+Design system architecture solutions that fit user’s basic and optimal requirement for those systems.
+Develop a system diagnostic that provides engineers a supportive tool to troubleshoot the communication issues between SQL database and New Horizon’s system. This records network communication loss and services’ errors  between KepwareServer and SQL Server.
+Document all possible errors and create advisory reports for senior engineers and top managers.
 
-Organized, researched, and created the project to capture images and video on a quadcopter of a specific object through a mobile device and transfer to azure data storage. The project uses various algorithms to retrieve data, perform image analysis and presents the result on virtual machine through azure technologies such as Azure Data Storage, Azure App Service, Visual Studio Team Services (C#), and Virtual Machines, and MATLAB. This project used Cascade Classifier in MATLAB to train  a specific object against 1000 background images (machine learning).
 
-#### [Project 2: Web-Based Inventory System for Reproductive and Child Health Alliance Organization (RACHA), 2006]()
+#### [Project 2: Live Data of Motors Project (Achilles USA), Jan 2017]
+(https://drive.google.com/drive/folders/0B-NEONzqW8sHWmgzY3NudVFnV2M?usp=sharing)
+Design and develop a database and responsive web pages in order to retrieve Motors’s meter tag data from Programming Logical Controller (PLC) and MS SQL and presents those data on the webpages for sale manager and CEO. All webpages are encrypted and decrypted using Crypto-JS, PHP password verification and HTTPS.
+
+
+#### [Project 3: Live Data of Food Processing Project (Sheerer’s Snack)]()
+Design and develop a database and responsive web pages to retrieve live data every minute, five minute, ten minutes of food processing and present those data live in table and graphics (bar chart, pie chart, Line with View Finder). 
+Create reports by converting web data into different forms: Excel(CSV), Image(PNG), and Text Document (DOCX).
+Develop dashboard for companies showing for live data visualization of key performance indicators based on their product operations. Dashboards utilize HTML5, PHP, Javascript, Jquery, Jquery Mobile & CSS3. Pages are accessed via tablet, mobile, desktop computer, or TV’s throughout facilities for corporate management, supervisors, & operators.
+
+#### [Project 4: Database Security Project (Sheerer’s Snack)]
+(https://drive.google.com/drive/folders/0B-NEONzqW8sHUTN6MUFvT0dBdEk?usp=sharing)
+Design and Develop Database Security. All webpages are encrypted and decrypted using Crypto-JS, PHP password verification and HTTPS.
+
+#### [Project 5: Cellular Network Camera on Quadcopter for Biology Research, 2016](https://docs.google.com/presentation/d/1iartC-oyx5ahPNwFAe69rH_CUxEy6pl5FLfyS1xotWs/edit?usp=sharing"):
+
+Organized, researched, and created the project to capture images and video on a quadcopter of a specific object through a mobile device and transfer to azure data storage. The project uses various algorithms to retrieve data, perform image analysis and presents the result on virtual machine through azure technologies such as Azure Data Storage, Azure App Service, Visual Studio Team Services (C#), and Virtual Machines, and MATLAB. This project used Cascade Classifier in MATLAB to train  a specific object against 1000 background images (Machine Learning).
+
+#### [Project 6: Web-Based Inventory System for Reproductive and Child Health Alliance Organization (RACHA), 2006]()
 
 Developed computer-based user interface to store and update the medical equipment inventory such as inventory in and out record and display the results on the web so that users can manipulate data and results on the web-based system through Microsoft technologies such as ASP.NET and VB. NET, and crystal report from System Application & Products in Data Processing (SAP).
 
