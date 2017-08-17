@@ -28,16 +28,14 @@ Web Development, Networking Administration, Cloud-Based Computing,  Java, JavaSc
 
 ## ENGINEERING PROJECTS
 
-#### [Project 1: Advisory and Alerting System Project (New Horizon Product), March 2017]
-(https://drive.google.com/open?id=14MW_kd2rBXawraUCSiogGSQ_7i935pSAbewQFi8x4mE)
+#### [Project 1: Advisory and Alerting System Project (New Horizon Product), March 2017](https://drive.google.com/open?id=14MW_kd2rBXawraUCSiogGSQ_7i935pSAbewQFi8x4mE)
 Develop batch and power shells scripts to detect operation system’s and motor’s down time, backup failures, communication loss between Programming Logical Controller (PLC), SQL Server, and KEPServerEX.
 Design system architecture solutions that fit user’s basic and optimal requirement for those systems.
 Develop a system diagnostic that provides engineers a supportive tool to troubleshoot the communication issues between SQL database and New Horizon’s system. This records network communication loss and services’ errors  between KepwareServer and SQL Server.
 Document all possible errors and create advisory reports for senior engineers and top managers.
 
 
-#### [Project 2: Live Data of Motors Project (Achilles USA), Jan 2017]
-(https://drive.google.com/drive/folders/0B-NEONzqW8sHWmgzY3NudVFnV2M?usp=sharing)
+#### [Project 2: Live Data of Motors Project (Achilles USA), Jan 2017](https://drive.google.com/drive/folders/0B-NEONzqW8sHWmgzY3NudVFnV2M?usp=sharing)
 Design and develop a database and responsive web pages in order to retrieve Motors’s meter tag data from Programming Logical Controller (PLC) and MS SQL and presents those data on the webpages for sale manager and CEO. All webpages are encrypted and decrypted using Crypto-JS, PHP password verification and HTTPS.
 
 
@@ -46,8 +44,7 @@ Design and develop a database and responsive web pages to retrieve live data eve
 Create reports by converting web data into different forms: Excel(CSV), Image(PNG), and Text Document (DOCX).
 Develop dashboard for companies showing for live data visualization of key performance indicators based on their product operations. Dashboards utilize HTML5, PHP, Javascript, Jquery, Jquery Mobile & CSS3. Pages are accessed via tablet, mobile, desktop computer, or TV’s throughout facilities for corporate management, supervisors, & operators.
 
-#### [Project 4: Database Security Project (Sheerer’s Snack)]
-(https://drive.google.com/drive/folders/0B-NEONzqW8sHUTN6MUFvT0dBdEk?usp=sharing)
+#### [Project 4: Database Security Project (Sheerer’s Snack)](https://drive.google.com/drive/folders/0B-NEONzqW8sHUTN6MUFvT0dBdEk?usp=sharing)
 Design and Develop Database Security. All webpages are encrypted and decrypted using Crypto-JS, PHP password verification and HTTPS.
 
 #### [Project 5: Cellular Network Camera on Quadcopter for Biology Research, 2016](https://docs.google.com/presentation/d/1iartC-oyx5ahPNwFAe69rH_CUxEy6pl5FLfyS1xotWs/edit?usp=sharing"):
